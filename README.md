@@ -15,5 +15,5 @@ Lagrange interpolation is a method used to estimate values between known data po
 ### Files:
 **lagrange_interpolation.py**: Python code implementing the Lagrange interpolation algorithm.
 
-#### Note:
+## Note:
 Each subfolder for these projects contains a more detailed README file with specific explanation of code and output screenshot.
