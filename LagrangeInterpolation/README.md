@@ -26,6 +26,6 @@ The provided Python code demonstrates Lagrange interpolation to estimate pressur
 
 ## Output
 
-![interpolation](https://github.com/rashmi-kulkarni-ct402/Python/assets/158051740/a23070e4-d48e-4441-a8c0-31bff9635767)
+![LagrangeInterpolation](https://github.com/rashmi-kulkarni-ct402/Python/assets/158051740/d68da298-7741-4e25-8657-93c7822f2598)
 
 
