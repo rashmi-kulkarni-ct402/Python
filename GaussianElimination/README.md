@@ -21,4 +21,6 @@ The provided Python code demonstrates Gaussian elimination to solve a system of 
 
 ## Output
 
+![GaussianElimination](https://github.com/rashmi-kulkarni-ct402/Python/assets/158051740/df8a4074-c56e-405f-89ad-c4cc19cc2f10)
+
 
