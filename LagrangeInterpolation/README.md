@@ -14,7 +14,7 @@ where (l_i(x)) are the Lagrange basis polynomials defined as:
 
 ## Explanation of Code
 
-The provided Python code demonstrates Lagrange interpolation to estimate pressure values at given temperature points. Here's a breakdown of the code:
+The provided Python code demonstrates Lagrange interpolation to estimate pressure values at given temperature points. 
 
 - Import Libraries: NumPy is used for numerical operations, and Matplotlib is used for plotting.
 - `lagrange Interpolation` Function: The lagrange_interpolation function takes arrays x and y representing the known data points and a value x_val for which the interpolated value is desired. It returns the interpolated value at x_val.
